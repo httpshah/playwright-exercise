@@ -10,12 +10,12 @@ The goal of this exercise is to build an end-to-end automated test suite using *
 ### Exercise Requirements
 There are **40 steps** required to complete the test. Refer to each line of the codes in the starter repository.
 
-**Starter Repo:** [https://github.com/shawn-thrive/playwright-exercise.git](https://github.com/shawn-thrive/playwright-exercise.git)
+**Code Repo:** [https://github.com/shawn-thrive/playwright-exercise/blob/main/tests/fill-todo-exercise.spec.ts](https://github.com/shawn-thrive/playwright-exercise/blob/main/tests/fill-todo-exercise.spec.ts)
 
 ### Deliverables
 * **Green Test Report:** All tests must be passing.
 * **GitHub Repository History:** Showing at least 2 Pull Requests and 2 Code Reviews.
-* **`todo.spec.ts`:** (or separate files) following the structure of your finalized code.
+* **`fill-todo-exercise.spec.ts`:** (or separate files) following the structure of your finalized code.
 * **Demonstration:** A walkthrough of the completed tests.
 
 ---
